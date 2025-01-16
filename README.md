@@ -1,4 +1,4 @@
-## Hi there! 👋  
+## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 I'm **Atilla Kuncoro Djati**, an undergraduate student at **Mercu Buana University**. Passionate about learning and exploring **Software Development**, **UI/UX Design**, and **Machine Learning**. Always eager to grow and contribute to innovative projects!
 
 ---
