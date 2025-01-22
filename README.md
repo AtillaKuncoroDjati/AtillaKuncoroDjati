@@ -9,7 +9,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <h2>Hi there! <img src="https://github.com/user-attachments/assets/93a3c13f-3601-4179-89d8-36b4b7400dc0" width="45" alt="hi emoji"/></h2>
   <p>
     I'm <b>Atilla Kuncoro Djati</b>, an undergraduate student at <b>Mercu Buana University</b>. Passionate about learning and exploring <b>Web Development</b> and <b>UI/UX Design</b>. Always eager to grow and contribute to innovative projects!
@@ -18,7 +18,7 @@
 
 ---
 
-<h2>Programming Language <img src="https://github.com/user-attachments/assets/6677dd85-1ef2-4d03-96d9-4862befa0f89" width="45" alt="programming"/></h2>
+<h2>Programming Language 💻 </h2>
 <p align="left">
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -31,7 +31,7 @@
 
 ---
 
-### 📊 Github Stats  
+ <h2>Github Stats <img src="https://github.com/user-attachments/assets/a3ef886d-be5f-4ae8-82fc-a80339c7f8f0" width="45" alt="stats"/></h2>
 <p align="left">
   <a href="https://github.com/AtillaKuncoroDjati">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AtillaKuncoroDjati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
