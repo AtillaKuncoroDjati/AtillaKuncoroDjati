@@ -18,7 +18,7 @@
 
 ---
 
-## 💻 Programming Language
+<h2>Programming Language <img src="https://github.com/user-attachments/assets/6677dd85-1ef2-4d03-96d9-4862befa0f89" width="25" alt="programming"/></h2>
 <p align="left">
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -27,6 +27,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" />
 </p>
+
 
 ---
 
