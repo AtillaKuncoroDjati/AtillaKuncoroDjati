@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <h2>Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25" alt="wave emoji"/></h2>
+  <h2>Hi there! <img src="https://github.com/user-attachments/assets/93a3c13f-3601-4179-89d8-36b4b7400dc0" width="25" alt="hi emoji"/></h2>
   <p>
     I'm <b>Atilla Kuncoro Djati</b>, an undergraduate student at <b>Mercu Buana University</b>. Passionate about learning and exploring <b>Web Development</b> and <b>UI/UX Design</b>. Always eager to grow and contribute to innovative projects!
   </p>
