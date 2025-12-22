@@ -1,14 +1,3 @@
-<div align="center">
-  <h3><b>Profile Visitor Count</b></h3>
-</div>
-
-<!-- retro visitor counter -->  
-<p align="center">   
-  <img src="https://profile-counter.glitch.me/AtillaKuncoroDjati/count.svg" />  
-</p>
-
----
-
 <div align="left">
   <h2>Hi there! <img src="https://github.com/user-attachments/assets/93a3c13f-3601-4179-89d8-36b4b7400dc0" width="45" alt="hi emoji"/></h2>
   <p>
