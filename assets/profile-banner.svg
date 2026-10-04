@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Atilla Kuncoro Djati — Code. Design. Explore.</title>
+  <desc id="desc">Red and black geometric banner with cream lettering.</desc>
+  <defs>
+    <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#09090b" opacity=".22"/></pattern>
+    <pattern id="stripes" width="150" height="150" patternUnits="userSpaceOnUse" patternTransform="rotate(24)"><path d="M0 0V150M72 0V150" stroke="#09090b" stroke-width="2" opacity=".2"/></pattern>
+  </defs>
+  <rect width="1200" height="360" fill="#09090b"/>
+  <path d="M0 0H910L760 360H0Z" fill="#e60012"/>
+  <path d="M0 0H910L760 360H0Z" fill="url(#stripes)"/>
+  <path d="M0 0H910L760 360H0Z" fill="url(#dots)"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#f6f4ef">
+    <text x="58" y="51" font-size="14" font-weight="700" letter-spacing="4">THE OPEN NOTEBOOK / 001</text>
+    <g transform="translate(54 78) rotate(-2)">
+      <rect x="0" y="0" width="292" height="94" fill="#f6f4ef"/>
+      <text x="14" y="76" fill="#09090b" font-size="83" font-weight="900" font-style="italic" letter-spacing="-4">ATILLA.</text>
+    </g>
+    <text x="58" y="239" font-size="58" font-weight="900" letter-spacing="-2">KUNCORO DJATI</text>
+    <text x="62" y="299" font-size="18" font-weight="700" letter-spacing="3">CODE. DESIGN. EXPLORE.</text>
+    <text x="62" y="332" font-size="13" letter-spacing="1">WEB DEVELOPMENT / UI &amp; UX / DATA EXPLORATION</text>
+    <text x="983" y="324" text-anchor="middle" font-size="13" font-weight="700" letter-spacing="2">JAKARTA, ID</text>
+  </g>
+  <path d="M991 47L1008 140L1100 112L1040 180L1121 234L1025 224L1010 304L979 231L885 254L942 185L866 132L964 144Z" fill="#f6f4ef" transform="rotate(-9 993 177)"/>
+  <path d="M991 93L1001 151L1059 136L1024 178L1069 209L1010 204L1003 254L982 208L924 222L959 181L912 148L973 154Z" fill="#e60012" transform="rotate(-9 993 177)"/>
+</svg>
