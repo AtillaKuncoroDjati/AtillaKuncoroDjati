@@ -23,7 +23,6 @@ During my UI/UX internship at **PT. Meissa Berkah Teknologi**, I developed user 
 
 | Project | Purpose | Stack |
 | --- | --- | --- |
-| [**Bening Studio**](https://github.com/AtillaKuncoroDjati/Bening-Studio) | An offline Windows image editor for background removal, resizing, and transparent PNG export. | C# · WPF · ONNX Runtime |
 | [**Nusa Rasa**](https://github.com/AtillaKuncoroDjati/Nusa-Rasa) | A team project for sharing Indonesian recipes, with ingredient search, cooking mode, and user reviews. | React · Node.js · MySQL |
 | [**EduSkill**](https://github.com/AtillaKuncoroDjati/EduSkillWebsite) | A learning platform with courses, quizzes, progress tracking, and completion certificates. | Laravel · PHP · Blade |
 | [**Dentist Appointment**](https://github.com/AtillaKuncoroDjati/Dentist_Appointment_System) | Appointment scheduling, patient feedback, and service administration. | Laravel · PHP · MySQL |
@@ -33,12 +32,6 @@ During my UI/UX internship at **PT. Meissa Berkah Teknologi**, I developed user 
 
 <details>
 <summary><strong>Bening Studio — interface preview</strong></summary>
-
-<br />
-
-[![Bening Studio image editor](https://raw.githubusercontent.com/AtillaKuncoroDjati/Bening-Studio/main/docs/images/bening-editor-dark.png)](https://github.com/AtillaKuncoroDjati/Bening-Studio)
-
-</details>
 
 ## Toolkit
 
